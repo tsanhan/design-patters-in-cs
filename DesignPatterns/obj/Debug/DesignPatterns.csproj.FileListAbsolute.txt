@@ -1,0 +1,170 @@
+c:\users\vic\documents\visual studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Builder.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Singleton.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Builder.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Singleton.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Prototype.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Prototype.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Adapter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\Adapter.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Adapter.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Bridge.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Builder.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\ChainOfResponsibility.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Command.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Composite.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Decorator.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Facade.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Flyweight.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Mediator.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Observer.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Prototype.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Proxy.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Singleton.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\State.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Strategy.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\TemplateMethod.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Visitor.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Adapter.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Bridge.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Builder.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Command.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Composite.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Decorator.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Facade.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Flyweight.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Mediator.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Observer.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Prototype.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Proxy.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Singleton.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\State.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Strategy.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\TemplateMethod.pdb
+<<<<<<< .mine
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+||||||| .r14
+=======
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Visitor.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Interpreter.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Iterator.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Memento.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Interpreter.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Iterator.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\DesignPatterns\bin\Debug\Memento.pdb
+>>>>>>> .r17
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Adapter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Bridge.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Builder.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\ChainOfResponsibility.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Command.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Composite.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Decorator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Facade.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Flyweight.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Interpreter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Iterator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Mediator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Memento.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Observer.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Prototype.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Proxy.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Singleton.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\State.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Strategy.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\TemplateMethod.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Visitor.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Adapter.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Bridge.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Builder.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Command.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Composite.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Decorator.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Facade.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Flyweight.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Interpreter.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Iterator.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Mediator.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Memento.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Observer.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Prototype.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Proxy.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Singleton.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\State.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Strategy.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\TemplateMethod.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Visitor.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Adapter.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Bridge.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Builder.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\ChainOfResponsibility.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Command.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Composite.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Decorator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Facade.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Flyweight.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Interpreter.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Iterator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Mediator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Memento.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Observer.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Prototype.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Proxy.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Singleton.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\State.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Strategy.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\TemplateMethod.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Visitor.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\AbstractFactory.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Adapter.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Bridge.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Builder.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Command.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Composite.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Decorator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Facade.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Flyweight.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Interpreter.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Iterator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Mediator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Memento.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Observer.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Prototype.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Proxy.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Singleton.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\State.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Strategy.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\TemplateMethod.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\bin\Debug\Visitor.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe

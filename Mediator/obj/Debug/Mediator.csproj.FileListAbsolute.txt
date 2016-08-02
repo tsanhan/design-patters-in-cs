@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Mediator\bin\Debug\Mediator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Mediator\obj\Debug\Mediator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Mediator\bin\Debug\Mediator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Mediator\obj\Debug\Mediator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

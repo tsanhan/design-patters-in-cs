@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Strategy\bin\Debug\Strategy.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Strategy\obj\Debug\Strategy.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Strategy\bin\Debug\Strategy.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Strategy\obj\Debug\Strategy.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

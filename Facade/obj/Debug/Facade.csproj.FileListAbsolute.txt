@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Facade\bin\Debug\Facade.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Facade\obj\Debug\Facade.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Facade\obj\Debug\Facade.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Facade\bin\Debug\Facade.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Facade\obj\Debug\Facade.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Facade\obj\Debug\Facade.pdb

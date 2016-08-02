@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Visitor\bin\Debug\Visitor.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Visitor\obj\Debug\Visitor.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Visitor\bin\Debug\Visitor.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Visitor\obj\Debug\Visitor.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

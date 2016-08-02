@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Flyweight\bin\Debug\Flyweight.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Flyweight\obj\Debug\Flyweight.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Flyweight\bin\Debug\Flyweight.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Flyweight\obj\Debug\Flyweight.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

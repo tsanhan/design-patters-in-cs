@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Iterator\bin\Debug\Iterator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Iterator\obj\Debug\Iterator.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Iterator\obj\Debug\Iterator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Iterator\bin\Debug\Iterator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Iterator\obj\Debug\Iterator.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

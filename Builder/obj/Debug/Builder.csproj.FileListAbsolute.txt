@@ -1,0 +1,19 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Builder\bin\Debug\Builder.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Builder\obj\Debug\Builder.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Builder\bin\Debug\Builder.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Builder\obj\Debug\Builder.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Builder\bin\Debug\Builder.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Builder\obj\Debug\Builder.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Builder\bin\Debug\Builder.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Builder\obj\Debug\Builder.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Observer\bin\Debug\Observer.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Observer\obj\Debug\Observer.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Observer\obj\Debug\Observer.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Observer\bin\Debug\Observer.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Observer\obj\Debug\Observer.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Observer\obj\Debug\Observer.pdb

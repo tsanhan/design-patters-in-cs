@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Command\bin\Debug\Command.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Command\obj\Debug\Command.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Command\obj\Debug\Command.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Command\bin\Debug\Command.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Command\obj\Debug\Command.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Command\obj\Debug\Command.pdb

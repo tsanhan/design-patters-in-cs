@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

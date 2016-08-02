@@ -1,0 +1,10 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Interpreter\bin\Debug\Interpreter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Interpreter\obj\Debug\Interpreter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Interpreter\bin\Debug\Interpreter.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Interpreter\obj\Debug\Interpreter.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb

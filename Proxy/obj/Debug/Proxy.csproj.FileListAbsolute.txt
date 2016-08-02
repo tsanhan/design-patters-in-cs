@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Proxy\bin\Debug\Proxy.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Proxy\obj\Debug\Proxy.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Proxy\obj\Debug\Proxy.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Proxy\bin\Debug\Proxy.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Proxy\obj\Debug\Proxy.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Memento\bin\Debug\Memento.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Memento\obj\Debug\Memento.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Memento\obj\Debug\Memento.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Memento\bin\Debug\Memento.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Memento\obj\Debug\Memento.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Memento\obj\Debug\Memento.pdb

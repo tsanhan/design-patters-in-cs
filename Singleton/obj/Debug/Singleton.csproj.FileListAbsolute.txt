@@ -1,0 +1,19 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Singleton\bin\Debug\Singleton.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Singleton\obj\Debug\Singleton.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Singleton\bin\Debug\Singleton.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Singleton\obj\Debug\Singleton.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Singleton\bin\Debug\Singleton.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Singleton\obj\Debug\Singleton.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB9AB0CF-11FA-4955-8C90-6E1112D5C28F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DesignPatterns</RootNamespace>
+    <AssemblyName>DesignPatterns</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractFactory\AbstractFactory.csproj">
+      <Project>{d7446099-66ff-48b2-8109-56f9e9d2733e}</Project>
+      <Name>AbstractFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Adapter\Adapter.csproj">
+      <Project>{478c589c-7c71-4554-b4fc-02a538c2024a}</Project>
+      <Name>Adapter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bridge\Bridge.csproj">
+      <Project>{e0d333c3-c1f9-49e7-b50a-85b9ccf2507c}</Project>
+      <Name>Bridge</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Builder\Builder.csproj">
+      <Project>{85bc9744-eb84-43d5-b8aa-c82f112bcacf}</Project>
+      <Name>Builder</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChainOfResponsibility\ChainOfResponsibility.csproj">
+      <Project>{a14e4669-8090-4203-82a2-6183a71b441e}</Project>
+      <Name>ChainOfResponsibility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Command\Command.csproj">
+      <Project>{e7f4e2ac-96a3-4373-b5f5-36a21d14307f}</Project>
+      <Name>Command</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Composite\Composite.csproj">
+      <Project>{dc19fde9-6597-4ef6-8878-55dc75e71a0a}</Project>
+      <Name>Composite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Decorator\Decorator.csproj">
+      <Project>{4305775a-121e-4a49-85bf-dacbbd6308c5}</Project>
+      <Name>Decorator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Facade\Facade.csproj">
+      <Project>{4bccca19-5191-44cd-ab6a-4553dbe09960}</Project>
+      <Name>Facade</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Flyweight\Flyweight.csproj">
+      <Project>{5044c082-55f0-48f0-9ca5-b274f981d7df}</Project>
+      <Name>Flyweight</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interpreter\Interpreter.csproj">
+      <Project>{0ab75420-c6f9-4c04-a20f-bf104e9cbcd1}</Project>
+      <Name>Interpreter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iterator\Iterator.csproj">
+      <Project>{568e5e60-f1bb-48d3-9940-c6e248764d36}</Project>
+      <Name>Iterator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mediator\Mediator.csproj">
+      <Project>{50b50bce-8c59-4600-b541-9e6cd495e402}</Project>
+      <Name>Mediator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Memento\Memento.csproj">
+      <Project>{46e8ab11-8db0-4936-92f2-a9767f75db33}</Project>
+      <Name>Memento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Observer\Observer.csproj">
+      <Project>{ff765e07-9c50-4605-bad0-19e7aab203aa}</Project>
+      <Name>Observer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Prototype\Prototype.csproj">
+      <Project>{dd99ccca-f230-47be-b783-fc645f36af36}</Project>
+      <Name>Prototype</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Proxy\Proxy.csproj">
+      <Project>{7ec97c90-319b-4c8d-91c9-ba387a43b0e5}</Project>
+      <Name>Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Singleton\Singleton.csproj">
+      <Project>{76a16d49-3b75-41f3-9e14-db1e539075b7}</Project>
+      <Name>Singleton</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\State\State.csproj">
+      <Project>{5a5aecee-bd67-4885-b19c-7e958f9c9fd1}</Project>
+      <Name>State</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Strategy\Strategy.csproj">
+      <Project>{caf77561-5d19-4454-b96f-7b65aaea00fc}</Project>
+      <Name>Strategy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemplateMethod\TemplateMethod.csproj">
+      <Project>{26b77887-ced5-4077-aa08-1cedeac79cff}</Project>
+      <Name>TemplateMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Visitor\Visitor.csproj">
+      <Project>{856c2f48-5389-4892-b975-77c9e2db791c}</Project>
+      <Name>Visitor</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

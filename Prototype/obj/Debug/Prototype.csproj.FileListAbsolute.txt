@@ -1,0 +1,19 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Prototype\bin\Debug\Prototype.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Prototype\obj\Debug\Prototype.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Prototype\bin\Debug\Prototype.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Prototype\obj\Debug\Prototype.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Prototype\bin\Debug\Prototype.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Prototype\obj\Debug\Prototype.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Prototype\bin\Debug\Prototype.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Prototype\obj\Debug\Prototype.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,18 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Adapter\bin\Debug\Adapter.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Adapter\obj\Debug\Adapter.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Adapter\bin\Debug\Adapter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Adapter\obj\Debug\Adapter.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Adapter\bin\Debug\Adapter.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Adapter\obj\Debug\Adapter.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

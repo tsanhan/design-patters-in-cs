@@ -1,0 +1,9 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Bridge\bin\Debug\Bridge.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Bridge\obj\Debug\Bridge.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\Bridge\obj\Debug\Bridge.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Bridge\bin\Debug\Bridge.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Bridge\obj\Debug\Bridge.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

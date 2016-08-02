@@ -1,0 +1,19 @@
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\tsanh\Documents\Visual Studio 2015\Projects\PesronalRepo\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\vic\Documents\Visual Studio 2015\Projects\privateSVN\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\tsanh\Dropbox\LEARN\privateSVN\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
